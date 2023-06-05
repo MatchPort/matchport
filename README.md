@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on [Find Files](https://github.com/MatchPort/Find-Files)
 
+- 🐦 Check out my [Twitter](https://twitter.com/matchport)
+
 - 🌱 I’m currently learning **Firmware development And Rust.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MatchPort](https://github.com/MatchPort)
