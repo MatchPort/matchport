@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matchport&label=Profile%20views&color=0e75b6&style=flat" alt="matchport" /> </p>
 
+ - 💬 Add me on Telegram @loficat
+
 - 🔭 I’m currently working on [Find Files](https://github.com/MatchPort/Find-Files)
 
 - 🐦 Check out my [Twitter](https://twitter.com/matchport)
