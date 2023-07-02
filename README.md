@@ -39,3 +39,5 @@
 
 
 I am https://github.com/Nota0x7
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1124429072601194646)](https://discord.com/users/1124429072601194646)
