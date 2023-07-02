@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **Nota#7777**
+- 📫 How to reach me **MatchPort#8323 or @loficat on telegram**
 
 - ⚡ Fun fact **I think I'm funny**
 
