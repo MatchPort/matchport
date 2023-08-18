@@ -9,7 +9,7 @@
 
  - 💬 Add me on Telegram @loficat
 
-- 🔭 I’m currently working on [Find Files](https://github.com/MatchPort/Find-Files)
+- 🔭 I’m currently working on Antimind - Encrypted Chat Platform
 
 - 🐦 Check out my [Twitter](https://twitter.com/matchport)
 
