@@ -1,5 +1,4 @@
-##                                        Updated 10/4/23!
-
+## Updated 10/4/23!
 ![RESALT V2](https://github.com/MatchPort/matchport/assets/131888743/9523f262-73e4-4323-8107-2befacd9bb94)
 
 
